@@ -6,13 +6,13 @@
 
 
 ## Thesis Statement
-This dashboard explores the impact of personal remittances on countries' GDP. Remittances represent money sent back or brought by migrants to their home countries which can significantly boost local economies and improve living standards.
+This dashboard explores the impact of personal remittances on Africa's GDP. Remittances represent money sent back or brought by migrants to their home countries that significantly boosts the local economies and improve living standards.
 
 ## Context of my data visualization
-After the conference I attended at Yale University last year, I have always been wondering, does making an impact on the 
+After the conference I attended at Yale University, I have always been wondering, 'does making an impact on the 
 African continent mean to physically be there or remittances can also be another option of giving back?
 This dashboard gives a reassuring answer by exploring how the African countries GDP are increasing due to remittances. When people migrate
-and send money back to their home countries, they contribute directly to their nation's economy. 
+and send money back to their countries, they tremendously contribute directly to their nation's economy. 
  
 
 ## Data I will be visualizing
@@ -25,9 +25,7 @@ GDP one would contribute by sending money to different countries, and it also fo
 
 ## Call to Action
 This dashboard advocates that migrants or first generation families can still contribute to the 
-African continent by sending remittances to their home country. Yes, we would be absolutely to have them back but
-that's not realistically possible, but they can still contribute to the development of the continent.  
-
+African continent by sending remittances to their home country.  
 
 ## Strategies employed from SWD
 1.  Articulating my unique point of view of the project
