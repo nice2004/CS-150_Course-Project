@@ -27,27 +27,29 @@ app.layout = html.Div([
                             html.Hr(),
                             html.H4("Project Overview"),
                             html.P([
-                                "This dashboard explores the impact of personal remittances on countries' GDP. ",
-                                "Remittances represent money sent back or brought by migrants to their home countries, ",
-                                "which can significantly boost local economies and improve living standards."
+                                "This dashboard explores the impact of personal remittances on countries' GDP "
+                                "in Africa. ",
+                                "After attending the conference at Yale University that aimed at finding Africa's "
+                                "solutions, I always wondered, does making an impact on the",
+                                "African continent mean to physically be there or remittances can also be another "
+                                "option of giving back?",
+                                "This dashboard gives a reassuring answer by exploring how the African countries GDP "
+                                "are increasing due to remittances. When people migrate",
+                                "and send money back to their home countries, they contribute directly to their "
+                                "nation's economy."
                             ]),
                             html.H4("Why Remittances Matter"),
                             html.P([
                                 "Remittances are a vital source of income for many developing nations, particularly "
-                                "in Africa. When people migrate ",
-                                "and send money back to their home countries, they contribute directly to their "
-                                "nation's economy. ",
-                                "This dashboard advocates for the importance of maintaining these connections to home "
+                                "in Africa. They contribute to the development of the country. According to "
+                                "nextisAfrica article,In 2022, remittances accounted for an average of 7.6% of GDP in "
+                                "Western Africa,  6.8% in Eastern Africa, 4.4% in Northern Africa, 3.7% in Southern "
+                                "Africa, and 1.4% in Central Africa.  ",
+                                "Therefore, this dashboard advocates for the importance of maintaining these "
+                                "connections to home"
                                 "countries."
                             ]),
-                            html.H4("Key Benefits"),
-                            dbc.ListGroup([
-                                dbc.ListGroupItem("Direct impact on household income and poverty reduction"),
-                                dbc.ListGroupItem("Improved access to education and healthcare"),
-                                dbc.ListGroupItem("Increased local investment and entrepreneurship"),
-                                dbc.ListGroupItem("Stability during economic downturns"),
-                                dbc.ListGroupItem("Reduced dependency on foreign aid"),
-                            ], className="mb-4"),
+
                             html.H4("How to Use This Dashboard"),
                             html.P([
                                 "Use the 'Map' tab to explore remittances as a percentage of GDP, with a focus on "
@@ -241,7 +243,6 @@ app.layout = html.Div([
         className="mt-5",
     ),
 ])
-
 
 # Callbacks for interactive functionality
 app_callbacks(app)
